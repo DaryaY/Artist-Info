@@ -1,0 +1,2 @@
+# Artist-Info
+Evanescence discography
