@@ -172,6 +172,7 @@ td a:visited {
 }
 td a {
   text-decoration: none;
+  color: #1a1a1a;
 }
 td a:hover {
   color: #e8cf7d;
